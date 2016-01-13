@@ -2,8 +2,6 @@
 
 'use strict';
 
-console.log('tjena')
-
 /**
  * NorrisBot launcher script.
  *
